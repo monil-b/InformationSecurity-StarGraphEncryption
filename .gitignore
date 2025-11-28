@@ -1,1 +1,26 @@
+# MATLAB backup files
+*.asv
 
+# Temporary and autosave files
+*~
+*.m~
+*.tmp
+*.bak
+
+# Compiled MATLAB files
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Simulink generated folders
+slprj/
+sccprj/
+*.slxc
+*.mdl.autosave
+
+# Cache and figure files
+*.fig
+*.cache
+
+# Data objects
+*.mat
